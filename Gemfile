@@ -1,6 +1,6 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'execjs'
-gem 'therubyracer'
-gem 'github-pages'
-gem 'jekyll-paginate'
+gem "jekyll"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "jekyll-feed"
