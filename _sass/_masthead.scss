@@ -23,7 +23,7 @@
     }
 
     @include media($large) {
-      max-width: em(960);
+      max-width: em(1200);
     }
   }
 }
@@ -49,9 +49,8 @@
     }
 
     @include media($large) {
-      width: 200px;
-      height: 200px;
-      @include rounded(200px); /* crops in a circle */
+      width: 1200px;
+      height: 158px;
     }
   }
 }
